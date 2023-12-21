@@ -93,7 +93,7 @@ section {
     transform: translateY(0);
   }
   50% {
-    transform: translateY(-2.4rem);
+    transform: translateY(-5rem);
   }
 
   100% {
@@ -141,7 +141,7 @@ span {
 
 .social-media a:hover {
   background: var(--main-color);
-  color: var(--second-bg-color);
+  color: var(--text-color);
   box-shadow: 0 0 1rem var(--main-color);
 }
 
@@ -152,7 +152,7 @@ span {
   border-radius: 4rem;
   box-shadow: 0 0 1rem var(--main-color);
   font-size: 1.6rem;
-  color: var(--second-bg-color);
+  color: var(--text-color);
   letter-spacing: 0.1rem;
   font-weight: 600;
   transition: 0.5s ease;
@@ -174,6 +174,9 @@ span {
 
 .about-img img {
   width: 35vw;
+  border: 1rem solid var(--main-color);
+  border-radius: 50%;
+  box-shadow: 0 0 2rem var(--main-color);
 }
 .heading {
   text-align: center;
