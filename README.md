@@ -5,6 +5,6 @@
 
 ---
 
-![Portafolio](./portafolio-juan.png"Portafolio")
+![Portafolio](./portafolio-juan.png "Portafolio")
 
 ---
