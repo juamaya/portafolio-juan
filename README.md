@@ -16,7 +16,7 @@
 
 ---
 
-> [! Warning]
+> [!Warning]
 > Mi pagina
 > Publicada en github pages.
 
